@@ -1,1 +1,1 @@
-"These are my projects in the ongoing python 100 days challenge" 
+These repo contains my daily tasks in the Python 100 days challenge. 
